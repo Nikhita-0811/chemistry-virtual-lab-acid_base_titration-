@@ -1,0 +1,6 @@
+{
+  "name": "TitraLab 3D — Virtual Acid-Base Titration Laboratory",
+  "description": "Interactive 3D virtual chemistry laboratory for school students to perform acid-base titration (HCl vs NaOH) with real-time pH simulation, bilingual English/Tamil support, and assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
